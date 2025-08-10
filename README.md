@@ -12,8 +12,4 @@ Este repositorio es un ejercicio práctico para aprender a usar **Git** y **GitH
    - Commit 3: Agregar `archivo-rama2.txt` en `rama-2`.
 5. Uso de **SSH** para conexión segura con GitHub.
 
-## Comandos útiles
-```bash
-git branch -a         # Ver ramas locales y remotas
-git log --oneline --graph --all  # Ver historial de commits
 
